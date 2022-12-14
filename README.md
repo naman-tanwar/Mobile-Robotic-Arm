@@ -1,4 +1,5 @@
 # Mobile Robotic Arm
+A 3D-printed Robotic arm mounted on Aluminium 2020 chassis which can be controlled over the internet from anywhere in the world. Ideal for remote exploration.
 ## Abstract
 Exploration of various unreachable/hazardous places is a key to scientifically enrich our understanding of this universe. And remotely performing operations on these locations opens more aspects of not even exploration but also providing medical aid where a real human intervention is not possible. This project aims to serve this goal of remote exploration and operation.
 
